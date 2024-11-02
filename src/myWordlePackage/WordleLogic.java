@@ -33,15 +33,6 @@ public class WordleLogic {
     private String[]  wordList = new String[50];
     
     
-    
-    
-    
-    
-    
-   
-   
-    
-    
     public String Login( String uN, String uP)
     {
                
